@@ -2,6 +2,7 @@
 const nextConfig = {
     distDir: 'docs',
     output: 'export',
+    basePath: 'card-game',
     typescript: {
         ignoreBuildErrors: true
     }
